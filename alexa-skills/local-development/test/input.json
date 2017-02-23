@@ -1,0 +1,22 @@
+{
+  "session": {
+    "sessionId": "SessionId.Session1",
+    "application": {
+      "applicationId": "demo id"
+    },
+    "user": {
+      "userId": "amzn1.ask.account.testaccount1"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.TestSession1",
+    "timestamp": "2016-05-19T01:07:55Z",
+    "intent": {
+      "name": "LaunchIntent"
+    },
+    "locale": "en-US"
+  },
+  "version": "1.0"
+}
