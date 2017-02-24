@@ -15,7 +15,7 @@
 // the role must have a trusted policy with
 // "lambda.amazonaws.com" and "arn:aws:iam::<YOUR ACCOUNT ID>:user/<YOUR USER>"
 
-var roleArn = 'arn:aws:iam::<YOUR AWS ACCOUNT ID>:role/lambda_dynamo';
+var roleArn = 'arn:aws:iam::<YOUR AWS ACCOUNT ID>:role/<YOUR ROLE>';
 var region = 'us-east-1';
 /* DO NOT MAKE CHANGE BELOW THIS */
 var aws = require('aws-sdk');
