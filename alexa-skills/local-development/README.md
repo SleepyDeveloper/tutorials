@@ -38,7 +38,7 @@ Benefits:
   5. Create a role
   6. Attach policies
   7. Trust user
-3. Finalize testing files
+3. Finalize testing environment
   1. Run `aws configure`
   2. Replace placeholders with your data
 4. Configure Debugger
