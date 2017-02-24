@@ -22,7 +22,7 @@ Benefits:
 * installed software
   * NodeJS
   * Visual Studio Code
-  * AWS Commandline tools
+  * AWS Command Line Interface
 
 # Steps
 
