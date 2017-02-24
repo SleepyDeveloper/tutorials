@@ -22,6 +22,7 @@ Benefits:
 * installed software
   * NodeJS
   * Visual Studio Code
+  * AWS Commandline tools
 
 # Steps
 
@@ -37,11 +38,10 @@ Benefits:
   5. Create a role
   6. Attach policies
   7. Trust user
-3. Add AWS keys
-  * Run `aws configure`
-4. Finalize test environment
-  * Replace placeholders with your data
-5. Configure Debugger
+3. Finalize testing files
+  1. Run `aws configure`
+  2. Replace placeholders with your data
+4. Configure Debugger
   1. Create `./.vscode/launch.json` file
   2. Set break points
   3. Debug it
