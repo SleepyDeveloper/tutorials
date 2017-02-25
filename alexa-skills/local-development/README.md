@@ -54,12 +54,12 @@ Videos
 
 ##### 2. Configure AWS
 ---
-[![YouTube link for step 1 set up testing files](http://img.youtube.com/vi/aSk90ks5gfU/0.jpg)](https://youtu.be/aSk90ks5gfU)
+[![YouTube link for step 2 configure AWS](http://img.youtube.com/vi/aSk90ks5gfU/0.jpg)](https://youtu.be/aSk90ks5gfU)
 
 ##### 3. Finalize testing environment
 ---
-[![YouTube link for step 1 set up testing files](http://img.youtube.com/vi/IUpg-dbHuUE/0.jpg)](https://youtu.be/IUpg-dbHuUE)
+[![YouTube link for step 3 Finalize testing environment](http://img.youtube.com/vi/IUpg-dbHuUE/0.jpg)](https://youtu.be/IUpg-dbHuUE)
 
 ##### 4. Configure and Debug
 ---
-[![YouTube link for step 1 set up testing files](http://img.youtube.com/vi/xbjRRmw3d0k/0.jpg)](https://youtu.be/xbjRRmw3d0k)
+[![YouTube link for step 4 Configure and Debug](http://img.youtube.com/vi/xbjRRmw3d0k/0.jpg)](https://youtu.be/xbjRRmw3d0k)
