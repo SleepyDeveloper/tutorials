@@ -26,11 +26,11 @@ Benefits:
 
 # Steps
 
-1. Set up testing files
+1. Set up testing files [YouTube](https://youtu.be/pKtSe-2HlZc)
   1. Add a test dir
   2. Install node modules
   3. Create test files.
-2. Configure AWS
+2. Configure AWS [YouTube](https://youtu.be/aSk90ks5gfU)
   1. Create a group in IAM
   2. Attach Policies
   3. Create a user in IAM
@@ -38,10 +38,10 @@ Benefits:
   5. Create a role
   6. Attach policies
   7. Trust user
-3. Finalize testing environment
+3. Finalize testing environment [YouTube](https://youtu.be/IUpg-dbHuUE)
   1. Run `aws configure`
   2. Replace placeholders with your data
-4. Configure and Debug
+4. Configure and Debug [YouTube](https://youtu.be/xbjRRmw3d0k)
   1. Create `./.vscode/launch.json` file
   2. Set break points
   3. Debug it
@@ -50,16 +50,16 @@ Videos
 ====
 ##### 1. Set up testing files
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pKtSe-2HlZc?ecver=1" frameborder="0" allowfullscreen></iframe>
+[![YouTube link for step 1 set up testing files](http://img.youtube.com/vi/pKtSe-2HlZc/0.jpg)](https://youtu.be/pKtSe-2HlZc)
 
 ##### 2. Configure AWS
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aSk90ks5gfU?ecver=1" frameborder="0" allowfullscreen></iframe>
+[![YouTube link for step 1 set up testing files](http://img.youtube.com/vi/aSk90ks5gfU/0.jpg)](https://youtu.be/aSk90ks5gfU)
 
 ##### 3. Finalize testing environment
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IUpg-dbHuUE?ecver=1" frameborder="0" allowfullscreen></iframe>
+[![YouTube link for step 1 set up testing files](http://img.youtube.com/vi/IUpg-dbHuUE/0.jpg)](https://youtu.be/IUpg-dbHuUE)
 
 ##### 4. Configure and Debug
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xbjRRmw3d0k?ecver=1" frameborder="0" allowfullscreen></iframe>
+[![YouTube link for step 1 set up testing files](http://img.youtube.com/vi/xbjRRmw3d0k/0.jpg)](https://youtu.be/xbjRRmw3d0k)
