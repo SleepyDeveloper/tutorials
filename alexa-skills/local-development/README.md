@@ -41,7 +41,25 @@ Benefits:
 3. Finalize testing environment
   1. Run `aws configure`
   2. Replace placeholders with your data
-4. Configure Debugger
+4. Configure and Debug
   1. Create `./.vscode/launch.json` file
   2. Set break points
   3. Debug it
+
+Videos
+====
+##### 1. Set up testing files
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pKtSe-2HlZc?ecver=1" frameborder="0" allowfullscreen></iframe>
+
+##### 2. Configure AWS
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aSk90ks5gfU?ecver=1" frameborder="0" allowfullscreen></iframe>
+
+##### 3. Finalize testing environment
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IUpg-dbHuUE?ecver=1" frameborder="0" allowfullscreen></iframe>
+
+##### 4. Configure and Debug
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xbjRRmw3d0k?ecver=1" frameborder="0" allowfullscreen></iframe>
