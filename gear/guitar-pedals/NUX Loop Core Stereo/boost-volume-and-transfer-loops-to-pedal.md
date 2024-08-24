@@ -94,35 +94,3 @@ Do you have a video that has some audio that you'd like to loop and play along w
 1. name the file after the loop slot you want it to be
 1. transfer the loop your Core Loop Stereo
 1. Enjoy your jam session 
-
-
-```
-$ ffmpeg -i <input>.WAV -ar 44100 -ac 2 -acodec pcm_f32le <output>.WAV
-```
-
-Increase volume
-
-```
-$ ffmpeg -i <input>.WAV -af volume=10 -ac 2 -acodec pcm_f32le <output>.WAV
-```
-
-Make sure you provide the -acodec otherwise it will default to 16 bit (pcm_s16le) which is not compatible with the NUX Loop Core
-
-pcm_f32le
-
-
-Path: 
-
-
-/Volumes/NUX\ LOOPER/NCL-2/WAVE/W095 
-"/Volumes/NUX LOOPER/NCL-2/WAVE/W095"
-
-
-`$ ffprobe <filename>`
-
-[Looper](https://www.nuxaudio.com/loopcorestereo.html)
-
-
-Please see [connecting loops to your computer]() if you need help with that.
-
-The volume level supports many types like decibles. Set `volume=5db` to raise the volume 5 decibles. Set `volume=10` 10x the original volume.
